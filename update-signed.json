@@ -1,10 +1,10 @@
 {
   "v": 1,
-  "ts": 1794517957,
-  "latest": "2.0.0",
-  "min": "",
+  "ts": 1795024930,
+  "latest": "3.0.22",
+  "min": "3.0.10",
   "graceDays": 3,
   "url": "https://discord.gg/NXUj89JHBB",
   "notes": "เวอร์ชันใหม่มาแล้ว สามารถดาวน์โหลดได้ที่ลิ้งดาวน์โหลดครับ 🫡",
-  "sig": "DHAQE4SKfKM9q_B68MacxHpbK6jSmRqRrWZa0dKpmSTODfODku__9gtja9aOtfHyxKnCllLFdPt1cH6BBV3zAA"
+  "sig": "a2p3Vv5sssSn0WDc7eMBtUC55oopZQ_t22ygI3KPRtuR6mEdG9gFa2csxfxrPHd57-QWbV2yuOVVljRYWb-IBg"
 }
